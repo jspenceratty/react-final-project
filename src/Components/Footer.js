@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
     return (
         <div className="text-center p-4">
-            My Coin Collection<br />
+            My Collections<br />
             Copyright (C) 2021 - James Spencer<br/>
             All Rights Reserved
         </div>
